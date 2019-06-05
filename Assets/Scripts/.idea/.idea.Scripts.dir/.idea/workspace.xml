@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="824acdc7-dc47-4d4c-9f68-c50e4805bec7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../MainScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../MainScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RubyController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RubyController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
     </list>
@@ -17,14 +17,30 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/RubyController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+            <state relative-caret-position="180">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
               <folding>
-                <element signature="e#0#78#0" expanded="true" />
-                <marker date="1559540388044" expanded="true" signature="123:801" ph="{...}" />
-                <marker date="1559540388044" expanded="true" signature="229:380" ph="{...}" />
-                <marker date="1559540388044" expanded="true" signature="247:323" ph="/* QualitySettings.vSyncCount = 0; ... */" />
-                <marker date="1559540388044" expanded="true" signature="438:799" ph="{...}" />
+                <marker date="1559718243273" expanded="true" signature="6:78" ph="..." />
+                <marker date="1559718243273" expanded="true" signature="123:1123" ph="{...}" />
+                <marker date="1559718243273" expanded="true" signature="208:258" ph="{...}" />
+                <marker date="1559718243273" expanded="true" signature="393:571" ph="{...}" />
+                <marker date="1559718243273" expanded="true" signature="408:487" ph="/* QualitySettings.vSyncCount = 0; ... */" />
+                <marker date="1559718243273" expanded="true" signature="629:992" ph="{...}" />
+                <marker date="1559718243273" expanded="true" signature="1034:1121" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HealthCollectible.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+              <folding>
+                <marker date="1559718179895" expanded="true" signature="6:78" ph="..." />
+                <marker date="1559718179895" expanded="true" signature="126:414" ph="{...}" />
+                <marker date="1559718179895" expanded="true" signature="171:412" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -36,11 +52,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/HealthCollectible.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/RubyController.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/HealthCollectible.cs" />
         <option value="$PROJECT_DIR$/RubyController.cs" />
       </list>
     </option>
@@ -93,11 +111,12 @@
       <workItem from="1559369130293" duration="2094000" />
       <workItem from="1559446718207" duration="1782000" />
       <workItem from="1559529238859" duration="1291000" />
+      <workItem from="1559715035124" duration="2746000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5167000" />
+    <option name="totallyTimeSpent" value="7913000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -111,7 +130,7 @@
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15104741" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15270121" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -153,16 +172,30 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/HealthCollectible.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+          <folding>
+            <marker date="1559718179895" expanded="true" signature="6:78" ph="..." />
+            <marker date="1559718179895" expanded="true" signature="126:414" ph="{...}" />
+            <marker date="1559718179895" expanded="true" signature="171:412" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/RubyController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
-            <element signature="e#0#78#0" expanded="true" />
-            <marker date="1559540388044" expanded="true" signature="123:801" ph="{...}" />
-            <marker date="1559540388044" expanded="true" signature="229:380" ph="{...}" />
-            <marker date="1559540388044" expanded="true" signature="247:323" ph="/* QualitySettings.vSyncCount = 0; ... */" />
-            <marker date="1559540388044" expanded="true" signature="438:799" ph="{...}" />
+            <marker date="1559718243273" expanded="true" signature="6:78" ph="..." />
+            <marker date="1559718243273" expanded="true" signature="123:1123" ph="{...}" />
+            <marker date="1559718243273" expanded="true" signature="208:258" ph="{...}" />
+            <marker date="1559718243273" expanded="true" signature="393:571" ph="{...}" />
+            <marker date="1559718243273" expanded="true" signature="408:487" ph="/* QualitySettings.vSyncCount = 0; ... */" />
+            <marker date="1559718243273" expanded="true" signature="629:992" ph="{...}" />
+            <marker date="1559718243273" expanded="true" signature="1034:1121" ph="{...}" />
           </folding>
         </state>
       </provider>
