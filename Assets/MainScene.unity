@@ -851,7 +851,7 @@ TilemapRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6955a643521e30742a98e5d68049da7c, type: 2}
+  - {fileID: 2100000, guid: 6cdbdb8d3e347444aa9c6618d4359790, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -3462,16 +3462,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: -2350423741372529184, guid: 5635fea718ace8e4f9feea267ca91dcd,
-        type: 3}
-      propertyPath: m_SpriteTilingProperty.newSize.x
-      value: 5.3614163
-      objectReference: {fileID: 0}
-    - target: {fileID: -2350423741372529184, guid: 5635fea718ace8e4f9feea267ca91dcd,
-        type: 3}
-      propertyPath: m_AutoTiling
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7016725143876825745, guid: 5635fea718ace8e4f9feea267ca91dcd,
         type: 3}
       propertyPath: m_Name
@@ -3540,6 +3530,16 @@ PrefabInstance:
     - target: {fileID: 1143802429000314408, guid: 5635fea718ace8e4f9feea267ca91dcd,
         type: 3}
       propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -2350423741372529184, guid: 5635fea718ace8e4f9feea267ca91dcd,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 5.3614163
+      objectReference: {fileID: 0}
+    - target: {fileID: -2350423741372529184, guid: 5635fea718ace8e4f9feea267ca91dcd,
+        type: 3}
+      propertyPath: m_AutoTiling
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2565387765192472716, guid: 5635fea718ace8e4f9feea267ca91dcd,

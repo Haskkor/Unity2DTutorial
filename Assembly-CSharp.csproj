@@ -65,6 +65,7 @@
     <Compile Include="Assets\Scripts\DamageZone.cs" />
     <Compile Include="Assets\Scripts\EnnemyController.cs" />
     <Compile Include="Assets\Scripts\HealthCollectible.cs" />
+    <Compile Include="Assets\Scripts\Projectile.cs" />
     <Compile Include="Assets\Scripts\RubyController.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/Code/GitRepos/Unity2DTutorial/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
