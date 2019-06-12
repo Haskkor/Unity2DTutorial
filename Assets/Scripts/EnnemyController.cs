@@ -9,6 +9,7 @@ public class EnnemyController : MonoBehaviour
     public float changeTime = 3.0f;
     Rigidbody2D rigidbody2D;
     Animator animator;
+    public ParticleSystem smokeEffect;
     float timer;
     int direction = 1;
     private bool broken = true;
@@ -61,6 +62,9 @@ public class EnnemyController : MonoBehaviour
 
     public void Fix()
     {
+        Debug.Log(smokeEffect.IsAlive());
+        smokeEffect.enableEmission = false;
+        Debug.Log(smokeEffect.IsAlive());
         broken = false;
         rigidbody2D.simulated = false;
         animator.SetTrigger("Fixed");
