@@ -18,6 +18,7 @@ public class RubyController : MonoBehaviour
     Vector2 lookDirection = new Vector2(1,0);
     public GameObject projectilePrefab;
     Rigidbody2D rigidbody2d;
+    public ParticleSystem damageEffect;
     
     // Start is called before the first frame update
     void Start()
@@ -62,6 +63,7 @@ public class RubyController : MonoBehaviour
         if (amount < 0)
         {
             if (isInvicible) return;
+            damageEffect.Play();
             animator.SetTrigger("Hit");
             isInvicible = true;
             invicibleTimer = timeInvicible;

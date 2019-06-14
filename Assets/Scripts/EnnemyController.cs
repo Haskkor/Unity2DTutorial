@@ -62,9 +62,7 @@ public class EnnemyController : MonoBehaviour
 
     public void Fix()
     {
-        Debug.Log(smokeEffect.IsAlive());
-        smokeEffect.enableEmission = false;
-        Debug.Log(smokeEffect.IsAlive());
+        smokeEffect.Stop();
         broken = false;
         rigidbody2D.simulated = false;
         animator.SetTrigger("Fixed");
