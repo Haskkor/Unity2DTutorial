@@ -60,6 +60,7 @@ public class RubyController : MonoBehaviour
 
     public void ChangeHealth(int amount)
     {
+        UIHealthBar.instance.SetValue(currentHealth / (float) maxHealth);
         if (amount < 0)
         {
             if (isInvicible) return;

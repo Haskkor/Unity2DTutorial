@@ -2,30 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="824acdc7-dc47-4d4c-9f68-c50e4805bec7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/UIHealthBar.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UIHealthBar.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Library/EditorInstance.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Library/ShaderCache/3/39b27c396f3f5b8dd963630a087f404e.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Library/ShaderCache/5/5498658ad3d526346178c5af0bdb38e8.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Library/ShaderCache/a/aa014d21206323c88a16edbe00122aa3.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Library/ShaderCache/e/e8916cd6226b94c7abe9611417caea81.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Library/metadata/7b/7be37bde6ffd93b4199aa2d63881987c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Library/metadata/7b/7be37bde6ffd93b4199aa2d63881987c.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assembly-CSharp.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MainScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../MainScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prefabs/Ruby.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../Prefabs/Ruby.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prefabs/SmokeEffect.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../Prefabs/SmokeEffect.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnnemyController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EnnemyController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RubyController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RubyController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Library/CrashedAssetImports.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Library/CurrentLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/CurrentLayout.dwlt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Library/EditorInstance.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Library/StateCache/Hierarchy/68b0e5-02950274a6ae99241a.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/StateCache/Hierarchy/68b0e5-02950274a6ae99241a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ShaderCache/EditorEncounteredVariants" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ShaderCache/EditorEncounteredVariants" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Library/StateCache/Hierarchy/68b0e5-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/StateCache/Hierarchy/68b0e5-mainStage.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Library/StateCache/SceneView/bfbf15-0184d59433f2c334b9.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/StateCache/SceneView/bfbf15-0184d59433f2c334b9.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Library/StateCache/SceneView/bfbf15-02950274a6ae99241a.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/StateCache/SceneView/bfbf15-02950274a6ae99241a.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Library/StateCache/SceneView/bfbf15-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/StateCache/SceneView/bfbf15-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/assetDatabase3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Library/metadata/01/0184d59433f2c334b9608bc86db07f30" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/metadata/01/0184d59433f2c334b9608bc86db07f30" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Library/metadata/02/02950274a6ae99241a7f8bdfc0d46a10" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/metadata/02/02950274a6ae99241a7f8bdfc0d46a10" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Library/metadata/02/02950274a6ae99241a7f8bdfc0d46a10.info" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/metadata/02/02950274a6ae99241a7f8bdfc0d46a10.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Library/metadata/7b/7bddcbba2d9ec844ea38ef1e81c4096d" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/metadata/7b/7bddcbba2d9ec844ea38ef1e81c4096d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Library/metadata/b3/b31f4206f03272549ab20559b0308dc3" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/metadata/b3/b31f4206f03272549ab20559b0308dc3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Library/metadata/dd/dd8242bee0094b844b240cca1df5e132" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/metadata/dd/dd8242bee0094b844b240cca1df5e132" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/shadercompiler-UnityShaderCompiler.exe1.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/shadercompiler-UnityShaderCompiler.exe1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/shadercompiler-UnityShaderCompiler.exe2.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/shadercompiler-UnityShaderCompiler.exe2.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,21 +37,37 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/RubyController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
+            <state relative-caret-position="615">
+              <caret line="62" column="72" selection-start-line="62" selection-start-column="72" selection-end-line="62" selection-end-column="72" />
               <folding>
-                <marker date="1560506101815" expanded="true" signature="6:78" ph="..." />
-                <marker date="1560506101815" expanded="true" signature="123:2538" ph="{...}" />
-                <marker date="1560506101815" expanded="true" signature="247:297" ph="{...}" />
-                <marker date="1560506101815" expanded="true" signature="645:876" ph="{...}" />
-                <marker date="1560506101815" expanded="true" signature="660:739" ph="/* QualitySettings.vSyncCount = 0; ... */" />
-                <marker date="1560506101815" expanded="true" signature="934:1847" ph="{...}" />
-                <marker date="1560506101815" expanded="true" signature="1191:1297" ph="{...}" />
-                <marker date="1560506101815" expanded="true" signature="1636:1759" ph="{...}" />
-                <marker date="1560506101815" expanded="true" signature="1799:1841" ph="{...}" />
-                <marker date="1560506101815" expanded="true" signature="1889:2206" ph="{...}" />
-                <marker date="1560506101815" expanded="true" signature="1919:2125" ph="{...}" />
-                <marker date="1560506101815" expanded="true" signature="2229:2536" ph="{...}" />
+                <marker date="1560563525842" expanded="true" signature="6:78" ph="..." />
+                <marker date="1560563525842" expanded="true" signature="123:2612" ph="{...}" />
+                <marker date="1560563525842" expanded="true" signature="247:297" ph="{...}" />
+                <marker date="1560563525842" expanded="true" signature="645:876" ph="{...}" />
+                <marker date="1560563525842" expanded="true" signature="660:739" ph="/* QualitySettings.vSyncCount = 0; ... */" />
+                <marker date="1560563525842" expanded="true" signature="934:1847" ph="{...}" />
+                <marker date="1560563525842" expanded="true" signature="1191:1297" ph="{...}" />
+                <marker date="1560563525842" expanded="true" signature="1636:1759" ph="{...}" />
+                <marker date="1560563525842" expanded="true" signature="1799:1841" ph="{...}" />
+                <marker date="1560563525842" expanded="true" signature="1889:2280" ph="{...}" />
+                <marker date="1560563525842" expanded="true" signature="1993:2199" ph="{...}" />
+                <marker date="1560563525842" expanded="true" signature="2303:2610" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UIHealthBar.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+              <folding>
+                <marker date="1560563410279" expanded="true" signature="6:100" ph="..." />
+                <marker date="1560563410279" expanded="true" signature="142:566" ph="{...}" />
+                <marker date="1560563410279" expanded="true" signature="275:312" ph="{...}" />
+                <marker date="1560563410279" expanded="true" signature="330:396" ph="{...}" />
+                <marker date="1560563410279" expanded="true" signature="435:564" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -106,10 +121,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EnnemyController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
+            <state relative-caret-position="135">
               <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
               <folding>
-                <marker date="1560496599687" expanded="true" signature="6:78" ph="..." />
+                <element signature="e#0#78#0" expanded="true" />
                 <marker date="1560496599687" expanded="true" signature="125:1774" ph="{...}" />
                 <marker date="1560496599687" expanded="true" signature="458:594" ph="{...}" />
                 <marker date="1560496599687" expanded="true" signature="652:1377" ph="{...}" />
@@ -132,6 +147,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/EnnemyController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UIHealthBar.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Projectile.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/HealthCollectible.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/RubyController.cs" root0="SKIP_HIGHLIGHTING" />
@@ -145,6 +161,7 @@
         <option value="$PROJECT_DIR$/DamageZone.cs" />
         <option value="$PROJECT_DIR$/Projectile.cs" />
         <option value="$PROJECT_DIR$/EnnemyController.cs" />
+        <option value="$PROJECT_DIR$/UIHealthBar.cs" />
         <option value="$PROJECT_DIR$/RubyController.cs" />
       </list>
     </option>
@@ -161,8 +178,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -202,11 +219,12 @@
       <workItem from="1560056930241" duration="3424000" />
       <workItem from="1560317213742" duration="4464000" />
       <workItem from="1560492754465" duration="5697000" />
+      <workItem from="1560554467696" duration="1283000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25345000" />
+    <option name="totallyTimeSpent" value="26628000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -219,8 +237,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15931642" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16097023" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -304,10 +323,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/EnnemyController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
+        <state relative-caret-position="135">
           <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
           <folding>
-            <marker date="1560496599687" expanded="true" signature="6:78" ph="..." />
+            <element signature="e#0#78#0" expanded="true" />
             <marker date="1560496599687" expanded="true" signature="125:1774" ph="{...}" />
             <marker date="1560496599687" expanded="true" signature="458:594" ph="{...}" />
             <marker date="1560496599687" expanded="true" signature="652:1377" ph="{...}" />
@@ -322,23 +341,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/UIHealthBar.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding>
+            <marker date="1560563410279" expanded="true" signature="6:100" ph="..." />
+            <marker date="1560563410279" expanded="true" signature="142:566" ph="{...}" />
+            <marker date="1560563410279" expanded="true" signature="275:312" ph="{...}" />
+            <marker date="1560563410279" expanded="true" signature="330:396" ph="{...}" />
+            <marker date="1560563410279" expanded="true" signature="435:564" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/RubyController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
+        <state relative-caret-position="615">
+          <caret line="62" column="72" selection-start-line="62" selection-start-column="72" selection-end-line="62" selection-end-column="72" />
           <folding>
-            <marker date="1560506101815" expanded="true" signature="6:78" ph="..." />
-            <marker date="1560506101815" expanded="true" signature="123:2538" ph="{...}" />
-            <marker date="1560506101815" expanded="true" signature="247:297" ph="{...}" />
-            <marker date="1560506101815" expanded="true" signature="645:876" ph="{...}" />
-            <marker date="1560506101815" expanded="true" signature="660:739" ph="/* QualitySettings.vSyncCount = 0; ... */" />
-            <marker date="1560506101815" expanded="true" signature="934:1847" ph="{...}" />
-            <marker date="1560506101815" expanded="true" signature="1191:1297" ph="{...}" />
-            <marker date="1560506101815" expanded="true" signature="1636:1759" ph="{...}" />
-            <marker date="1560506101815" expanded="true" signature="1799:1841" ph="{...}" />
-            <marker date="1560506101815" expanded="true" signature="1889:2206" ph="{...}" />
-            <marker date="1560506101815" expanded="true" signature="1919:2125" ph="{...}" />
-            <marker date="1560506101815" expanded="true" signature="2229:2536" ph="{...}" />
+            <marker date="1560563525842" expanded="true" signature="6:78" ph="..." />
+            <marker date="1560563525842" expanded="true" signature="123:2612" ph="{...}" />
+            <marker date="1560563525842" expanded="true" signature="247:297" ph="{...}" />
+            <marker date="1560563525842" expanded="true" signature="645:876" ph="{...}" />
+            <marker date="1560563525842" expanded="true" signature="660:739" ph="/* QualitySettings.vSyncCount = 0; ... */" />
+            <marker date="1560563525842" expanded="true" signature="934:1847" ph="{...}" />
+            <marker date="1560563525842" expanded="true" signature="1191:1297" ph="{...}" />
+            <marker date="1560563525842" expanded="true" signature="1636:1759" ph="{...}" />
+            <marker date="1560563525842" expanded="true" signature="1799:1841" ph="{...}" />
+            <marker date="1560563525842" expanded="true" signature="1889:2280" ph="{...}" />
+            <marker date="1560563525842" expanded="true" signature="1993:2199" ph="{...}" />
+            <marker date="1560563525842" expanded="true" signature="2303:2610" ph="{...}" />
           </folding>
         </state>
       </provider>
